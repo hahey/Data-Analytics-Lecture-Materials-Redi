@@ -1,6 +1,8 @@
 # Data-Analytics-Lecture-Materials-Redi
 A collection of teaching materials that I created at the class `Data Analytics with Python` at ReDI School.
 
+[Redi School](https://de.redi-school.org/) is an organization pushing digital integration forwards by teaching programming to refugees and other minorities.
+
 It includes slides together with Jupyter notebooks for practices and examples.
 
 You can find all the teaching materials also from other teachers: https://github.com/ReDI-School/data-analytics.
